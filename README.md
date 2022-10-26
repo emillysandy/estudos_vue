@@ -36,3 +36,11 @@ export default {
 <style>
 </style>
 ```
+
+## Iniciando um projeto novo com Vue ##
+
+"sudo npm install -g @vue/cli" para instalar
+
+"vue create nome-do-projeto" para criar um novo projeto
+
+"npm run serve" para rodar o projeto
